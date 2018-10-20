@@ -10,6 +10,9 @@ The first annual R/Pharma conference took place August 15th to 16th at Harvard U
 
 The conference was a single track conference consisting of keynotes from renowned industry practitioners to key R developers to leading academics, pre-conference workshops and full-length presentations as well as a number of shorter, highly-energetic lightning talks.
 
+* [2018 R/Pharma conference website](https://rinpharma.github.io/website2018/)
+* [2018 R/Pharma conference program](https://rinpharma.github.io/website2018/program)
+
 ## 2019 conference
 
 Currently under development.
