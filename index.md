@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## About
+
+The first annual R/Pharma conference will be held Wednesday, August 15th and Thursday, August 16th at Harvard University, Cambridge, Massachusetts, USA.
 
 You can use the [editor on GitHub](https://github.com/epijim/rpharma-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
