@@ -1,39 +1,15 @@
 ## About
 
-The first annual R/Pharma conference will be held Wednesday, August 15th and Thursday, August 16th at Harvard University, Cambridge, Massachusetts, USA.
+R/Pharma is an ISC working group (www.r-consortium.org/projects/isc-working-groups) under the R Consortium. This working group aims to provide a yearly collegial and vendor neutral conference focused on the use of R in the development of pharmaceuticals. The conference covers topics including reproducible research, regulatory compliance and validation, safety monitoring, clinical trials, drug discovery, research & development, PK/PD/pharmacometrics, genomics, diagnostics, immunogenicity and more. 
 
-You can use the [editor on GitHub](https://github.com/epijim/rpharma-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+All is discussed within the context of using R as a primary tool within the drug development process. The conference showcases the current use of R that is helping to drive biomedical research, drug discovery & development, and clinical initiatives. (Note that topics related to the use of R in hospitals/clinics for patient care by clinicians, doctors, and researchers are the focus of the groups sister conference, R/Medicine.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2018 conference
 
-### Markdown
+The first annual R/Pharma conference took place August 15th to 16th at Harvard University, Cambridge, Massachusetts, USA.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The conference was a single track conference consisting of keynotes from renowned industry practitioners to key R developers to leading academics, pre-conference workshops and full-length presentations as well as a number of shorter, highly-energetic lightning talks.
 
-```markdown
-Syntax highlighted code block
+## 2019 conference
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/epijim/rpharma-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Currently under development.
